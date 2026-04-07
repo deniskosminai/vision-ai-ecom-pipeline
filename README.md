@@ -81,14 +81,17 @@ graph TD
 
 ## 📸 6. Доказательства работы (Proof of Work)
 <div align="center">
-  <img src="https://github.com/deniskosminai/vision-ai-ecom-pipeline/blob/main/img/Screenshot_2.jpg" width="32%" alt="E-com Pipeline Proof 1">
-  <img src="https://github.com/deniskosminai/vision-ai-ecom-pipeline/blob/main/img/Screenshot_4.jpg" width="32%" alt="E-com Pipeline Proof 2">
-  <img src="https://github.com/deniskosminai/vision-ai-ecom-pipeline/blob/main/img/Screenshot_5.jpg" width="32%" alt="E-com Pipeline Proof 3">    
+  <img src="https://github.com/deniskosminai/vision-ai-ecom-pipeline/blob/main/img/Screenshot_2.jpg" width="42%" alt="E-com Pipeline Proof 1">
+  <img src="https://github.com/deniskosminai/vision-ai-ecom-pipeline/blob/main/img/Screenshot_4.jpg" width="42%" alt="E-com Pipeline Proof 2">
+  </div>
+<div align="center">
+  <img src="https://github.com/deniskosminai/vision-ai-ecom-pipeline/blob/main/img/Screenshot_5.jpg" width="42%" alt="E-com Pipeline Proof 1">
+  <img src="https://github.com/deniskosminai/vision-ai-ecom-pipeline/blob/main/img/Screenshot_3.jpg" width="42%" alt="E-com Pipeline Proof 3">    
 </div>
 <i>Рис 1. Мультимодальная экстракция: автоматическое извлечение физических атрибутов товара (цвет, крой, ткань) из "сырой" фотографии.</i>
 </p>
 <p align="center">
-<img src="ВСТАВИТЬ_ССЫЛКУ_НА_EXCEL" width="80%" alt="Excel Export">
+<img src="https://github.com/deniskosminai/vision-ai-ecom-pipeline/blob/main/img/Screenshot_1.jpg" width="80%" alt="Excel Export">
 <br>
 <i>Рис 2. Результат строгой типизации (Pydantic): автоматический экспорт валидированных характеристик и SEO-описания в нативный .xlsx формат.</i>
 </p>
