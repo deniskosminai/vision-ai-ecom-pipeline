@@ -80,9 +80,11 @@ graph TD
 > 🗣 Мнение Категорийного менеджера: "Это не просто бот, который пишет тексты, это конвейер оцифровки. Кидаешь фото, а через полминуты получаешь готовый файл для загрузки. Ошибок стало меньше, а скорость выросла в разы."
 
 ## 📸 6. Доказательства работы (Proof of Work)
-<p align="center">
-<img src="ВСТАВИТЬ_ССЫЛКУ_НА_ФОТО_АУДИТА" width="80%" alt="Vision Analysis">
-<br>
+<div align="center">
+  <img src="https://github.com/deniskosminai/vision-ai-ecom-pipeline/main/img/Screenshot_2.jpg" width="32%" alt="E-com Pipeline Proof 1">
+  <img src="ССЫЛКА_НА_СКРИНШОТ_2" width="32%" alt="E-com Pipeline Proof 2">
+  <img src="ССЫЛКА_НА_СКРИНШОТ_2" width="32%" alt="E-com Pipeline Proof 3">    
+</div>
 <i>Рис 1. Мультимодальная экстракция: автоматическое извлечение физических атрибутов товара (цвет, крой, ткань) из "сырой" фотографии.</i>
 </p>
 <p align="center">
