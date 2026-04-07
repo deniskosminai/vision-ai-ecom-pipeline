@@ -1,6 +1,6 @@
 # vision-ai-ecom-pipeline
 
-![Vision Ecom Cover](ВСТАВИТЬ_ССЫЛКУ_НА_ОБЛОЖКУ_4)
+![Vision Ecom Cover](https://github.com/deniskosminai/vision-ai-ecom-pipeline/blob/main/img/VISION%20AI%20PIPELINE.png)
 
 # Vision AI E-com Pipeline: Оцифровка SKU (Из фото в Excel)
 
